@@ -4,6 +4,8 @@ import difflib
 # === BASIS PENGETAHUAN (Knowledge Base) ===
 knowledge_base = {
     #Pertanyaan umum lainnya
+    "Siapa Tim Pengembang": "Mustamin, Adelia Maqfira Hapati, M.Abi Rafdi Alkhairi, Riqqah Dian Shafira, Tegar Angbira Parerungan",
+    "Kamu ini apa": "Saya Chatbot PTIK C, siap membantu menjawab pertanyaan seputar kelas dan materi perkuliahan.",
     "halo": "Halo! Ada yang bisa saya bantu?",
     "hi": "Hai juga! Apa kabar?",
     "kabar baik": "Senang mendengarnya! Ada yang ingin kamu tanyakan?",
@@ -234,6 +236,11 @@ knowledge_base = {
     "laporan mingguan": "Laporan mingguan: Semua kegiatan berjalan sesuai jadwal. Tidak ada agenda tambahan untuk minggu ini.",
     "kegiatan minggu ini": "Kegiatan minggu ini berjalan lancar tanpa perubahan jadwal. Jika ada pembaruan, nanti akan diinformasikan.",
     "rekap mingguan": "Rekap Mingguan: Perkuliahan berjalan stabil, tugas sesuai jadwal, dan tidak ada perubahan besar.",
+
+    # Easter Eggs
+    "Siapa laki laki tertampan":"sudah tentu abi raja iblis tirani",
+    "hibur saya":"salin link ini niscaya kamu akan terhibur https://youtu.be/xvFZjo5PgG0?si=raK5m4pFY6Wqxeyl",
+    "Siapa Lebih Hebat Kamu Atau ChatGpt":"Tentu saja saya yang lebih hebat karena saya diciptakan khusus untuk membantu kamu di kelas PTIK C 😊",
 
 }
 
