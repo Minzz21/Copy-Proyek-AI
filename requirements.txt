@@ -1,4 +1,0 @@
-# requirements.txt
-Flask
-gunicorn 
-# Tambahkan library lain jika ada (misal: difflib)
